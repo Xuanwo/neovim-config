@@ -40,6 +40,7 @@ set modeline " Add bottom modeline
 set cursorline " Add cursor line
 set cursorcolumn " Add cursor column
 
+set expandtab
 set shiftwidth=4
 set tabstop=4
 set softtabstop=4
